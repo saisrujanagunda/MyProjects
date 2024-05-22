@@ -1,4 +1,4 @@
-# Project Introduction: Unveiling the Beauty of Image Processing
+# Image Processing
 
 ## Idea
 Embark on a journey through the fascinating world of image processing, where pixels hold the keys to unlocking hidden insights and revealing the beauty within visual data.
